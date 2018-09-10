@@ -1,0 +1,10 @@
+[package]
+name = "istic-api"
+version = "0.1.0"
+authors = ["emilydelormefr <emilydelormefr@gmail.com>"]
+
+[dependencies]
+oauth2 = "2.0.0-alpha.2"
+base64 = "0.9"
+rand = "0.4"
+url = "1.0"
